@@ -9,10 +9,6 @@ The purpose of this challenge is to enhance my problem-solving skills, improve m
 
 ## Day-wise Progress
 
-The following table provides an overview of the 45-day challenge, indicating the completion status for each day's coding questions.
-
-Sure, here's the table divided into 15 rows:
-
 | Day | Status   |
 |-----|----------|
 | 1   |          |
