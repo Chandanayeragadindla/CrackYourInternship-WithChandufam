@@ -60,18 +60,3 @@ The purpose of this challenge is to enhance my problem-solving skills, improve m
 ## Conclusion
 By the end of this challenge, I hope to have significantly improved my coding skills and prepared myself better for technical interviews and real-world programming challenges.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Chandanayeragadindla/CrackYourInternship-WithChandufam/tree/master/0073-set-matrix-zeroes) |
-## Hash Table
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Chandanayeragadindla/CrackYourInternship-WithChandufam/tree/master/0073-set-matrix-zeroes) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Chandanayeragadindla/CrackYourInternship-WithChandufam/tree/master/0073-set-matrix-zeroes) |
-<!---LeetCode Topics End-->
