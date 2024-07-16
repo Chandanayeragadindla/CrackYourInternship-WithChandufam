@@ -12,7 +12,7 @@ The purpose of this challenge is to enhance my problem-solving skills, improve m
 | Day | Status   |
 |-----|----------|
 | 1   |     ✅     |
-| 2   |          |
+| 2   |     ✅       |
 | 3   |          |
 | 4   |          |
 | 5   |          |
