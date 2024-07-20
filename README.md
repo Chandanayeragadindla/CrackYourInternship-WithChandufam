@@ -17,7 +17,7 @@ The purpose of this challenge is to enhance my problem-solving skills, improve m
 | 4   |    ✅   |
 | 5   |     ✅     |
 | 6   |    ✅      |
-| 7   |          |
+| 7   |     ✅      |
 | 8   |          |
 | 9   |          |
 | 10  |          |
