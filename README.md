@@ -20,7 +20,7 @@ The purpose of this challenge is to enhance my problem-solving skills, improve m
 | 7   |     ✅      |
 | 8   |     ✅     |
 | 9   |   ✅       |
-| 10  |          |
+| 10  |    ✅       |
 | 11  |          |
 | 12  |          |
 | 13  |          |
